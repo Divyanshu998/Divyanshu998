@@ -36,12 +36,5 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=Divyanshu998&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      
           
