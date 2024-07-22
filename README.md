@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Divyanshu998&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
  <br>
-- 👋 Hi, I’m @Divyanshu998<br>
+- 👋 Hi, I’m Divyanshu Shinde<br>
 - 👀 I’m interested in Ai, Python, Machine learning, cybersecurity, UI/UX...<br>
 - 🌱 I’m currently learning Python...<br>
 - 💞️ I’m looking to collaborate on every open source...<br>
