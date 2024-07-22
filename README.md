@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Divyanshu998&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Divyanshu998&label=Profile%20Views&color=5&icon=0&pretty=true" />
 </a>
