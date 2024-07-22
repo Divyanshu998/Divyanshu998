@@ -2,13 +2,13 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Divyanshu998&label=Profile%20Views&color=5&icon=0&pretty=true" />
 </a> <br>
-- 👋 Hi, I’m @Divyanshu998
-- 👀 I’m interested in Ai, Python, Machine learning, cybersecurity, UI/UX...
-- 🌱 I’m currently learning Python...
-- 💞️ I’m looking to collaborate on every open source...
-- 📫 How to reach me instagram:- https://www.instagram.com/divyanshu_shinde.35/
-- linkdin:-https://www.linkedin.com/in/divyanshu-shinde-15325b2b1...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m @Divyanshu998<br>
+- 👀 I’m interested in Ai, Python, Machine learning, cybersecurity, UI/UX...<br>
+- 🌱 I’m currently learning Python...<br>
+- 💞️ I’m looking to collaborate on every open source...<br>
+- 📫 How to reach me instagram:- https://www.instagram.com/divyanshu_shinde.35/<br>
+- linkdin:-https://www.linkedin.com/in/divyanshu-shinde-15325b2b1...<br>
+- 😄 Pronouns: ...<br>
 - ⚡ Fun fact: I am in TIT college bhopal ...
   
 
