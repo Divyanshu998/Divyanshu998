@@ -1,7 +1,7 @@
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Divyanshu998&label=Profile%20Views&color=5&icon=0&pretty=true" />
-</a>
+</a> <br>
 - 👋 Hi, I’m @Divyanshu998
 - 👀 I’m interested in Ai, Python, Machine learning, cybersecurity, UI/UX...
 - 🌱 I’m currently learning Python...
