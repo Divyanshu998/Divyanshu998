@@ -1,6 +1,5 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Divyanshu998&label=Profile%20Views&color=5&icon=0&pretty=true" />
-</a> <br>
+[![](https://visitcount.itsvg.in/api?id=Divyanshu998&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
+ <br>
 - 👋 Hi, I’m @Divyanshu998<br>
 - 👀 I’m interested in Ai, Python, Machine learning, cybersecurity, UI/UX...<br>
 - 🌱 I’m currently learning Python...<br>
