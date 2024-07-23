@@ -4,8 +4,6 @@
 - 👀 I’m interested in Ai, Python, Machine learning, cybersecurity, UI/UX...<br>
 - 🌱 I’m currently learning Python...<br>
 - 💞️ I’m looking to collaborate on every open source...<br>
-- 📫 How to reach me instagram:- https://www.instagram.com/divyanshu_shinde.35/<br>
-- linkdin:-https://www.linkedin.com/in/divyanshu-shinde-15325b2b1...<br>
 - 😄 Pronouns: ...<br>
 - ⚡ Fun fact: I am in TIT college bhopal ...
   
