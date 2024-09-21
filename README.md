@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Shinde</h1>
 <h3 align="center">A passionate for full stack Python developer from India</h3>
 
-- 🔭 I’m currently working on [mobile tracking Gui app](https://github.com/Divyanshu998/task-management/blob/main/task%20management.py)
+- 🔭 I’m currently working on [mobile tracking app](https://github.com/Divyanshu998/task-management/blob/main/task%20management.py)
 
 - 🌱 I’m currently learning **Django, Flask**
 
