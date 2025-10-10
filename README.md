@@ -8,7 +8,7 @@ Professional lazy coder
 ⭐⭐⭐⭐⭐ on Hacker Rank🔹 Skills: Python | Cybersecurity | Data Analysis | Power BI | DSA (Basic) | C++ (Basic) 🏆 Appian AI Hackathon Champion | 💻 Web Designer | 🏅 3/5 Hackathon Finalist | ✍️ Content Writer
 
 * 🌍  I'm based in Bhopal, Madhya Pradesh, India
-* 🖥️  See my portfolio at [Divyanshu Shinde](http://itsallabouttechnologymycancasite.my.canva.site/divyanshu-shinde)
+* 🖥️  See my portfolio at [Divyanshu Shinde](https://divyanshu-portfolio-murex.vercel.app/)
 * ✉️  You can contact me at [divyanshushinde21@gmail.com](mailto:divyanshushinde21@gmail.com)
 * 🚀  I'm currently working on [mobile number tracking](http://github.com/Divyanshu998/mobile-tracking-app)
 * 🧠  I'm learning full stack
